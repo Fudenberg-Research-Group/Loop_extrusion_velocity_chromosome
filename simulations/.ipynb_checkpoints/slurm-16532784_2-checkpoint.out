@@ -1,0 +1,6 @@
+==========================================
+SLURM_JOB_ID = 16532787
+SLURM_JOB_NODELIST = d23-13
+TMPDIR = /tmp/SLURM_16532787
+==========================================
+LIFETIME_16.6_SEPARATION_500_RSTALL_0.9_LSTALL_0.0_RC_0.0_LC_0.9_stalldist_1_STEPS_200_velocitymultiplier_0.33_Tad_1000

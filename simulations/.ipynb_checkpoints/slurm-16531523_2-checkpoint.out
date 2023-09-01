@@ -1,0 +1,9 @@
+==========================================
+SLURM_JOB_ID = 16531526
+SLURM_JOB_NODELIST = d13-09
+TMPDIR = /tmp/SLURM_16531526
+==========================================
+/var/spool/slurm/d/job16531526/slurm_script: line 15: /home1/rahmanin/start/polychrom/pds5/draft-extrusion/2023-06-07_runfile.txt: No such file or directory
+
+python: can't open file '/home1/rahmanin/start/polychrom/pds5/draft-extrusion/sim_for_random.py': [Errno 2] No such file or directory
+cp: cannot create directory ‘/home1/rahmanin/start/polychrom/pds5/draft-extrusion/Life-rand-uncoupled/’: No such file or directory
